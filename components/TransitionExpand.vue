@@ -56,7 +56,6 @@ export default {
   perspective: 1000px;
 }
 </style>
-
 <style>
 .expand-enter-active,
 .expand-leave-active {

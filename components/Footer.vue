@@ -88,7 +88,6 @@ export default {
       if (lang === 'zh') {
         lang += '-cn'
       }
-
       // this.$moment.locale(lang)
     },
     printLang(lang) {
